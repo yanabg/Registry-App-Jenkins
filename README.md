@@ -1,1 +1,1 @@
-Registry App for SoftUni
+Registry App
